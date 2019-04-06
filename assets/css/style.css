@@ -1,0 +1,34 @@
+
+
+
+.wrapper {
+	position: fixed;
+	padding: 25%;
+	text-align: center;
+	background: url('../images/fortune_teller_bg.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment:;
+	background-size: 50%;
+	opacity: .7; 
+}
+
+h1 {
+	font-size: 44px;
+	font-weight: bolder;
+	font-family: sans-serif;
+	line-height: 50px;
+}
+
+h3 {
+	font-size: 24px;
+	font-style: italic;
+	font-weight: lighter;
+	line-height: 30px;
+}
+
+p {
+	line-height: 20px;
+	font-size: 18px;
+	font-family: sans-serif;
+}
